@@ -1,5 +1,5 @@
-Use of function 0/2
-Correct Gui 0/1
-Comment Header 2/2
-Code comments 1/1
-Correct results 1/2 RLC error (use Farads &amp; Henries)
+Use of function 
+Correct Gui 
+Comment Header
+Code comments 
+Correct results, RLC error (use Farads &amp; Henries)
